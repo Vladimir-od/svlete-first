@@ -16,7 +16,7 @@
     const handleAdd = (e)=>{
     activeItem = 'Current Polls'
     }
-
+console.log('test')
 
 </script>
 
